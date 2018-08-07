@@ -18,12 +18,8 @@ contacts:
     username: gleb-sinyavsky-65b0725a
     title: Gleb Sinyavsky
 
-pdf:
-  layout: print
-
 markdown: kramdown
 
 plugins:
   - jekyll-feed
   - jekyll-assets
-  - jekyll-pdf
