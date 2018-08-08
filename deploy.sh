@@ -1,5 +1,7 @@
 #!/bin/bash
 
+set -e
+
 function commit() {
   git add .
   git commit -a -m"$1"
