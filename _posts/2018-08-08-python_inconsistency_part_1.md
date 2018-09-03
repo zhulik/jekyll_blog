@@ -2,6 +2,7 @@
 layout: post
 title:  "Python's inconsistency Part 1: built-in functions"
 categories: posts
+tags: python inconsistency
 ---
 
 This is the first post in the series about Python and about how bad it is. I'm not a Python programmer, but sometimes I
