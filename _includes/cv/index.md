@@ -1,6 +1,5 @@
 {% include cv/personal_info.md %}
 {% include cv/professional_experience.md %}
-{% page_break %}
 {% include cv/education.md %}
 {% include cv/technologies.html %}
 {% include cv/skills.md %}
