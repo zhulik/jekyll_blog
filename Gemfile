@@ -1,11 +1,9 @@
 source "https://rubygems.org"
 
-gem "jekyll", "3.8.3"
+gem "jekyll"
 gem "jekyll-assets"
 gem 'jekyll-sitemap'
 
 group :jekyll_plugins do
-   gem "jekyll-feed", "~> 0.10"
+   gem "jekyll-feed"
 end
-
-gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
